@@ -1,0 +1,19 @@
+.dropdowns{
+    background-color: white;
+    display:flex;
+    flex-direction: column;
+    border: 1px solid black;
+    margin: 0 auto 0 auto;
+}
+
+.dropdowns-row{
+    text-align: start;
+    margin: 2px 0;
+    cursor: pointer;
+}
+
+.thumbnail:hover {
+    background-color: rgb(117, 120, 120);
+    opacity: 0.7;
+    cursor: pointer;
+}
